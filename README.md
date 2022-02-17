@@ -1,6 +1,7 @@
-# Deep Learning HW1
+# Human Cognitive Modeling using STD and DDM
 
 
-*   **Some theoretical ML questions**: HW1_theory.pdf
-*   **Sign Language Recognition using TensorFlow**: Sign_Language_Recognition.ipynb
-*   **CartPole (RL)**: CartPole.ipynb, CartPole_output
+*   **Signal Detection Theory (SDT) using R**: SDT_R.ipynb
+*   **SDT using Python & EZ-Diffusion Model & Diffusion Decision Model (DDM) & PyDDM**: DDM_Python.ipynb
+
+Human Cognitive Modeling Workshop @ ![Loop academy](https://loopacademy.io/)
