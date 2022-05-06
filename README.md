@@ -1,4 +1,4 @@
-# Human Cognitive Modeling using STD and DDM
+# Human Cognitive Modeling using SDT and DDM
 
 
 *   **Signal Detection Theory (SDT) using R**: SDT_R.ipynb
